@@ -1,0 +1,38 @@
+{
+  "name": "vue-typescript-linting-rules",
+  "version": "1.0.0",
+  "description": "My favourite linting rules for a VUE 3 Typescript project.",
+  "author": "Geirr Winnem <gwinnem@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "plugin",
+    "vue 3",
+    "ecmascript",
+    "javascript",
+    "typescript",
+    "parser",
+    "syntax",
+    "eslint",
+    "typecheck",
+    "ts-loader"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwinnem/vue-typescript-linting-rules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwinnem/vue-typescript-linting-rules/issues"
+  },
+  "scripts": {
+    "version": "node -p \"require('./package.json').version\""
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.12.1",
+    "@typescript-eslint/parser": "^5.12.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-import-quotes": "^0.0.1",
+    "eslint-plugin-vue": "^8.5.0"
+  }
+}
