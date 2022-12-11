@@ -15,3 +15,10 @@ module.exports = {
   }
 }
 ```
+
+## Donate
+<a href="https://paypal.me/gwinnem/">
+    <img src="paypal-images/blue.svg" height="40">
+</a>
+
+If you enjoyed this project — or just feeling generous, consider buying me a beer. Cheers! :beers:
