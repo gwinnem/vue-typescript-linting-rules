@@ -16,6 +16,8 @@ module.exports = {
 }
 ```
 
+[NPM package](https://www.npmjs.com/package/vue-typescript-linting-rules?activeTab=readme)
+
 ## Donate
 <a href="https://paypal.me/gwinnem/">
     <img src="paypal-images/blue.svg" height="40">
